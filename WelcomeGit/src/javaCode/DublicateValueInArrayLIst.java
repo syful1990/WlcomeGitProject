@@ -3,7 +3,7 @@ package javaCode;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class DublicateValueInArray {
+public class DublicateValueInArrayLIst {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
